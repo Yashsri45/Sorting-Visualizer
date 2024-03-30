@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.controls input[type="text"] {
+    margin: 5px;
+    padding: 5px;
+}
+
+.controls button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.array-bar {
+    display: inline-block;
+    background-color: #007bff;
+    margin: 0 1px;
+    width: 20px;
+}
+
+.array-container {
+    margin-top: 30px;
+    display: inline-block;
+    height: 300px;
+}
